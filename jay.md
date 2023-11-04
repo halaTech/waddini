@@ -4,7 +4,7 @@ This document explains the personal data we collect, how it is used and shared, 
 
 **Definitions and Introductions**
 
-an online application for booking cars and making trips in all regions of Iraq, as the application works on iOS and Android devices, and the company is working to develop it and add services  
+an online application for booking cars and making trips in all regions of Iraq, as the application works on iOS  devices, and the company is working to develop it and add services  
 Where the application is divided into two applications: Customers: A segment of society that needs a means of transportation to spend its journey, and it also includes those who are requested to have a means of transportation for them by another person. Drivers: The last segment of society that carries out transportation and delivery operations, after submitting their forms and joining the company.  
 **Scope of the document**  
 This document applies to users of Denny's app services (clients and drivers).  
