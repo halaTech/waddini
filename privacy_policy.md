@@ -27,6 +27,21 @@ The customer has the right to rate trips and drivers.
 **Drivers' rights and duties**  
 \- The driver must confirm that he has received the amount given by the customer.  
 \- The driver has the right to cancel the request within the period specified by the company (one minute), and in the event of cancellation after that period, a trip will be withdrawn from his trip balance.  
+
+Data Deletion and Account Removal
+You can request the deletion of your account and personal data at any time.
+To submit a deletion request, contact our support team via WhatsApp at
++963 965 888 070, or through the in-app support chat (Drawer → Contact Support).
+
+When you request deletion, we permanently remove your personal data — including
+your name, phone number, profile photo, vehicle photos, saved addresses, and ride
+history — from our active systems within 30 days of the request.
+
+Some data may be retained where the law requires it (for example, financial or
+transaction records needed for tax, accounting, or dispute-resolution purposes).
+This data is kept only for the period required by applicable law and is then deleted.
+
+
 **Information retention**  
 The company shall keep the user's profile data, transactions, and other personal data as long as the user maintains his account with the company.  
 **Updates to this document**  
